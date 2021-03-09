@@ -1,0 +1,89 @@
+Sichuan Dialects
+valid vowels
+拼音    ipa note    例字
+a   a       阿（a1）
+o   o       哦（o5）
+er  ɚ       儿（er2）调羹儿（tiao2gen1er1）
+i   i       里（li3）
+yi  i   零声母  一（yi1）
+I   ɿ  zcs后    字（zi4）
+u   u       路（lu4）
+wu  u   零声母  五（wu3）
+v   y       吕（lv3）
+yu  y  零声母   鱼（yu2）
+E   ɛ       黑(hE2)
+ai  ai      拜（bai4）
+ei  ei      杯（bei1）
+ao  au      好（hao3）
+ou  əu      偶（ou3）
+an  an      按（an4）
+ang aŋ      唐（tang2）
+en  ən      冷（len3）
+ong oŋ      龙（long2）风（fong1）
+ya  ia  零声母  牙（ya2）
+ye  iɛ  零声母  叶（ye2）
+ia  ia      nia1
+ie  iɛ      聂（nie2）
+io  io      脚（jio2）
+yo  io  零声母  药（yo2）
+iao iau     漂（piao4）
+yao iau 零声母  腰（yao1）
+iu  iəu     刘（liu2）
+you iəu 零声母  游（you2）
+ian iɛn     连（lian2）
+yan iɛn 零声母  演
+iang    iaŋ     量（liang2）
+yang    iaŋ    零声母   杨（yang2）
+iong    ioŋ     熊（xiong2）
+yong    ioŋ 零声母  勇（yong3）
+u   u       路（lu4）
+wu  u   零声母  五（wu3）#IPA对应w还是v
+ua  ua      瓜（gua1）
+wa  ua  零声母  娃（wa2）
+uE  uɛ      国（kuɛ2）
+uai uai     乖（guai1）
+wai uai 零声母  外（wai4）
+ui  uei     退（tui4）
+wei uei     为（wei4）
+uan uan     乱（luan4）
+wan uan     玩（wan2）
+un uən      轮（lun2）
+wen uen     文（wen2）
+uang    uaŋ     荒（huang1）
+wang    uang    零声母  王（wang2）
+vn  yn      群（qvn2）#un还是vn？
+yun yn  零声母  云（yun）
+ve  ye      略（lüe）#ve还是ue？
+yue ye  零声母  月（yue）
+van yɛn     鲜（xvan）
+yuan  yɛn   零声母  元（yuan）
+
+valid consonants
+拼音    ipa note    例字
+b   p       把（ba3）
+p   pʰ      怕（pa4）
+m   m       莫（mo2）
+f   f       佛（fo2）
+d   t       到（dao4）
+t   tʰ      套（tao4）
+g   k       搞（gao3）
+k   kʰ      瞌（ko2）
+h   x       和（huo2）
+z   ts      字（zi4）
+c   tsʰ     才(cai2)
+s   s       丝（si1）
+r   z       入（ru4）
+j   tɕ      教（jiao1）
+q   tɕʰ     桥（qiao2）
+x   ɕ       学（xio2）
+n   n       农（nong2）#nlN三个音的可能不需要那么细
+l   l   n的变体 绿(lu2)
+N  ȵ   n的变体  你（Ni3）
+ng  ŋ       我（ngo3）
+?   ?
+
+声调
+1
+2
+3
+4
